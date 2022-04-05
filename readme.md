@@ -21,7 +21,7 @@ int main(void) {
 　std::cout << profile[0].country;
 　std::cout << " and my main programming language is ";
 　std::cout << profile[0].mainProgrammingLanguages;
-　std::cout << ". I also work with TypeScript, Python, C ++, C and C#.";
+　std::cout << ". I also work with TypeScript, Python, C++, C and C#.";
 　return 0;
 }
 ```
